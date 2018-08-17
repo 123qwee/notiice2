@@ -1,0 +1,113 @@
+{
+    "resultcode": "200",
+    "reason": "successed!",
+    "result": {
+        "sk": {
+            "temp": "27",
+            "wind_direction": "东南风",
+            "wind_strength": "4级",
+            "humidity": "50%",
+            "time": "10:26"
+        },
+        "today": {
+            "temperature": "20℃~35℃",
+            "weather": "晴转多云",
+            "weather_id": {
+                "fa": "00",
+                "fb": "01"
+            },
+            "wind": "东北风微风",
+            "week": "星期五",
+            "city": "西安",
+            "date_y": "2018年06月22日",
+            "dressing_index": "炎热",
+            "dressing_advice": "天气炎热，建议着短衫、短裙、短裤、薄型T恤衫等清凉夏季服装。",
+            "uv_index": "强",
+            "comfort_index": "",
+            "wash_index": "较适宜",
+            "travel_index": "较适宜",
+            "exercise_index": "较适宜",
+            "drying_index": ""
+        },
+        "future": {
+            "day_20180622": {
+                "temperature": "20℃~35℃",
+                "weather": "晴转多云",
+                "weather_id": {
+                    "fa": "00",
+                    "fb": "01"
+                },
+                "wind": "东北风微风",
+                "week": "星期五",
+                "date": "20180622"
+            },
+            "day_20180623": {
+                "temperature": "21℃~35℃",
+                "weather": "多云",
+                "weather_id": {
+                    "fa": "01",
+                    "fb": "01"
+                },
+                "wind": "东北风微风",
+                "week": "星期六",
+                "date": "20180623"
+            },
+            "day_20180624": {
+                "temperature": "22℃~34℃",
+                "weather": "多云",
+                "weather_id": {
+                    "fa": "01",
+                    "fb": "01"
+                },
+                "wind": "东风微风",
+                "week": "星期日",
+                "date": "20180624"
+            },
+            "day_20180625": {
+                "temperature": "21℃~35℃",
+                "weather": "多云转小雨",
+                "weather_id": {
+                    "fa": "01",
+                    "fb": "07"
+                },
+                "wind": "东北风微风",
+                "week": "星期一",
+                "date": "20180625"
+            },
+            "day_20180626": {
+                "temperature": "19℃~40℃",
+                "weather": "中雨转小雨",
+                "weather_id": {
+                    "fa": "08",
+                    "fb": "07"
+                },
+                "wind": "西南风微风",
+                "week": "星期二",
+                "date": "20180626"
+            },
+            "day_20180627": {
+                "temperature": "22℃~34℃",
+                "weather": "多云",
+                "weather_id": {
+                    "fa": "01",
+                    "fb": "01"
+                },
+                "wind": "东风微风",
+                "week": "星期三",
+                "date": "20180627"
+            },
+            "day_20180628": {
+                "temperature": "21℃~35℃",
+                "weather": "多云",
+                "weather_id": {
+                    "fa": "01",
+                    "fb": "01"
+                },
+                "wind": "东北风微风",
+                "week": "星期四",
+                "date": "20180628"
+            }
+        }
+    },
+    "error_code": 0
+}

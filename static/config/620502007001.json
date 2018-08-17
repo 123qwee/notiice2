@@ -1,0 +1,54 @@
+{
+    "uid": "620502007001",
+
+    
+    "regionCode": "620500",
+    "regionName": "天水市",
+    "streetCode": "620502",
+    "streetName": "秦州区",
+    "tcommunityCode": "620502007",
+    "tcommunityName": "天水郡街道",
+    "unitCode": "620502007001",
+    "unitName": "王家磨社区",
+
+    "Legal_education": "85",
+    "party_building": "90",
+    "nearby_store": "91",
+    "Guide_to_affairs": "92",
+    "community_News": "93",
+    "information_service": "94",
+    
+    "weather_key":"0cfe9cbcb9bd676d464fa27e93b7b0d9",
+    "environmental_key":"c8ea5270f8a125a4dfca3d7d2ff9abb1",
+
+    "lonlat": {
+        "lon": "108.93984",
+        "lat": "34.34127"
+    },
+    "video": [
+        {
+            "title": "天水小区西门",
+            "status": "1",
+            "info": "公共摄像头",
+            "link": ""
+        },
+        {
+            "title": "天水小区西门",
+            "status": "0",
+            "info": "公共摄像头",
+            "link": ""
+        },
+        {
+            "title": "天水小区西门",
+            "status": "0",
+            "info": "公共摄像头",
+            "link": ""
+        },
+        {
+            "title": "天水小区西门",
+            "status": "1",
+            "info": "公共摄像头",
+            "link": ""
+        }
+    ]
+}

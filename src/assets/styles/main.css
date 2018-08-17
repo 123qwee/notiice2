@@ -1,0 +1,121 @@
+/** 基础样式 */
+
+html {
+    width: 100%;
+    height: 100%;
+    background: #ececec;
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+    min-width: 1366px;
+    min-height: 768px;
+    position: relative;
+    overflow: hidden;
+}
+
+#container,
+.main {
+    width: 100%;
+    height: 100%;
+}
+
+
+/** 通用按钮样式 */
+
+.btn-common {
+    display: inline-block;
+    padding: 0;
+    border: none;
+    border-radius: 2px;
+    width: 90px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    letter-spacing: 5px;
+    vertical-align: middle;
+    color: #FFFFFF;
+    background-color: #3499da;
+    cursor: pointer;
+    /*禁止选择文字*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+/** 添加按钮样式 */
+
+.btn-ok {
+    color: #fff;
+    background-color: #3499da;
+}
+
+.btn-ok:hover,
+.btn-ok:focus {
+    color: #fff;
+    background-color: #49a3de!important;
+    border-color: #49a3de;
+}
+
+
+/** 重置按钮样式 */
+
+.btn-cancel {
+    color: rgba(44, 62, 80, 0.5);
+    background-color: #e4e9ed;
+}
+
+.btn-cancel:hover,
+.btn-cancel:focus {
+    background-color: #bdc3c7;
+    color: #fff;
+    transition: background-color 0.3s;
+    border: none;
+}
+
+
+/** 取消按钮样式 */
+
+.btn-back-out {
+    color: #fff;
+    background-color: #f7ba2a;
+    border-color: #f7ba2a;
+}
+
+.btn-back-out:hover,
+.btn-back-out:focus {
+    background: #f9c855;
+    border-color: #f9c855;
+    color: #fff;
+}
+
+.btn-reset {
+    background-color: #20A0FF;
+}
+
+
+/** 查看按钮样式 */
+
+.but-observe {
+    background-color: #01a147;
+    border-color: #01a147;
+    color: #ffffff;
+}
+
+.but-observe:hover {
+    background-color: #01c100;
+    border-color: #01c100;
+    color: #ffffff;
+}

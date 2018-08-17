@@ -1,0 +1,33 @@
+/** 字体图标样式 */
+
+.md-icon {
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.uk-icon-common {
+    cursor: pointer;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+
+/** 子页面标题栏样式 */
+
+.mainbar-title {
+    padding: 0 10px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #f9fafc;
+    background-color: #2778b9;
+    border-bottom: 1px solid #2778b9;
+}
+
+
+/** 子页面分页样式 */
+
+.pages {
+    padding: 6px 0;
+}
